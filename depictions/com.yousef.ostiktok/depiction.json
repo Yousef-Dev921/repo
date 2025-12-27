@@ -23,6 +23,10 @@
             {
               "url": "https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/screenshots/3.jpg",
               "accessibilityText": "Screenshot 3"
+            },
+            {
+              "url": "https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/screenshots/4.jpg",
+              "accessibilityText": "Screenshot 4"
             }
           ]
         },
@@ -31,7 +35,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "أداة مدفوعة توفر تجربة تيك توك متكاملة.\n\n**المميزات الرئيسية:**\n\n**• تجربة المشاهدة:** تجربة نقية، تنزيل الوسائط بدون علامة مائية، تعليقات شفافة، إظهار أسماء المستخدمين.\n\n**• الملف الشخصي:** حفظ صورة الملف الشخصي، نسخ البايو، إظهار تواريخ النشر وعدد الإعجابات.\n\n**• التشغيل والأمان:** تشغيل تلقائي، إيقاف التكرار، تخطي المقترحات، إزالة التحذيرات.\n\n**• أدوات متقدمة:** تغيير المنطقة (Region)، سجل الأخطاء، أدوات المطورين.\n\n---\n\nPaid tweak providing a complete TikTok experience.\n\n**Key Features:**\n\n**• Experience:** Pure experience, download media (no watermark), transparent comments, show usernames.\n\n**• Profile:** Save Profile Picture, copy bio, show dates & like counts.\n\n**• Playback:** Auto-play, stop looping, skip recommendations, remove warnings.\n\n**• Advanced:** Change Region, error logs, developer tools.\n\n**Links:**",
+          "markdown": "أداة مدفوعة توفر تجربة تيك توك متكاملة ومحسّنة.\n\n**التنزيل والمشاركة:**\n• تنزيل الفيديوهات بدون علامة مائية\n• تنزيل الصور كفيديو (عرض شرائح) مع صوت أو صامت\n• تنزيل الموسيقى مباشرة\n• نسخ الوصف وروابط الفيديو/الموسيقى\n• اختيار وضع التنزيل (مشاركة أو حفظ مباشر)\n\n**الملف الشخصي:**\n• حفظ صورة الملف الشخصي بالضغط المطول\n• نسخ السيرة الذاتية\n• عرض تاريخ الرفع وعدد الإعجابات والمقاطع\n• سيرة ذاتية وتعليقات موسعة\n\n**التشغيل والتجربة:**\n• تشغيل تلقائي للمقطع التالي\n• إيقاف التكرار اللانهائي\n• تخطي المقترحات وإخفاء الإعلانات\n• تعطيل التحذيرات والمحتوى الحساس\n• علم منطقة الرفع وسرعات تشغيل مسبقة\n\n**الترخيص:**\n• نظام تراخيص آمن عبر Patreon\n• نقل الترخيص لجهاز آخر كل 30 يوم\n\n**أدوات متقدمة:**\n• تغيير المنطقة (Region)\n• إعادة ضبط الإعدادات ومسح الكاش\n• دعم العربية والإنجليزية\n\n---\n\nPremium tweak providing an enhanced TikTok experience.\n\n**Download & Share:**\n• Download videos without watermark\n• Download photos as video (slideshow) with or without audio\n• Download music directly\n• Copy description and video/music links\n• Choose download mode (share sheet or direct save)\n\n**Profile:**\n• Save profile pictures with long press\n• Copy bio\n• Show upload dates, like counts, and video counts\n• Extended bio and comments\n\n**Playback & Experience:**\n• Auto-play next video\n• Stop looping playback\n• Skip recommendations and hide ads\n• Disable warnings and sensitive content mask\n• Upload region flag and preset playback speeds\n\n**Licensing:**\n• Secure license system via Patreon\n• Transfer license to another device every 30 days\n\n**Advanced Tools:**\n• Change region\n• Reset settings and clear cache\n• Arabic & English support\n\n**Links:**",
           "useSpacing": true
         },
         {
