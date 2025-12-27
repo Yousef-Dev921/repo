@@ -54,12 +54,6 @@
           "tintColor": "#1DA1F2"
         },
         {
-          "class": "DepictionTableButtonView",
-          "title": "الكود المصدري | Source Code (GitHub)",
-          "action": "https://github.com/yousefZX9900/OSTikTok",
-          "tintColor": "#333333"
-        },
-        {
           "class": "DepictionSeparatorView"
         },
         {
