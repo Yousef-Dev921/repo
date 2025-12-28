@@ -30,7 +30,7 @@ SHA256: b20b87e8f54dbe920a43777706c96f9a2c1dd2d1b708625795e2cade795ec696
 Section: Tweaks
 Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
 Author: Yousef
-Icon: https://yousefzx9900.github.io/repo-dist/CydiaIcon.png
+Icon: https://yousefzx9900.github.io/repo/CydiaIcon.png
 Name: OSTikTok
-Sileodepiction: https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/depiction.json
+Sileodepiction: https://yousefzx9900.github.io/repo/depictions/com.yousef.ostiktok/depiction.json
 
