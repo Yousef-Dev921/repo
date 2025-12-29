@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: Yousef <yousef_dev921@twitter>
 Installed-Size: 368
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate | substitute | libhooker | ellekit, preferenceloader
-Filename: debs/com.mutelock.tweak_1.1.0_iphoneos-arm64.deb
+Filename: ./debs/com.mutelock.tweak_1.1.0_iphoneos-arm64.deb
 Size: 30520
 MD5sum: 94ed530ec5e87a4eb2cb5fb4206a6fe4
 SHA1: 959987b52c912cb864d2e40b5f17d583938463d1
@@ -22,7 +22,7 @@ Architecture: iphoneos-arm64
 Maintainer: Yousef
 Installed-Size: 572
 Depends: firmware (>= 15.0), preferenceloader, ellekit
-Filename: debs/com.yousef.ostiktok_1.0.0-1_iphoneos-arm64.deb
+Filename: ./debs/com.yousef.ostiktok_1.0.0-1_iphoneos-arm64.deb
 Size: 171822
 MD5sum: 61f392ce9314bb7794700fd879dcafec
 SHA1: f4fdaeed47f7a447588b2e5cb1fce7a6d64bf2f6
