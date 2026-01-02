@@ -23,10 +23,10 @@ Maintainer: Yousef
 Installed-Size: 816
 Depends: firmware (>= 15.0), ellekit
 Filename: ./debs/com.yousef.ostiktok_1.1.1_iphoneos-arm64.deb
-Size: 251172
-MD5sum: 06fc901d3a5406a67cda63cc7cefa889
-SHA1: 59217f9bb42fb783f5baf4c8ea48c8fa580b4bea
-SHA256: bfaa37f3b2ed5fbf705f4354e915b620230484b41095986eabb7827207e06dd3
+Size: 251720
+MD5sum: 875a63bb5a45774290d61d7876807522
+SHA1: 94df809a82fd8d04e69f45183af90d0ad13491e0
+SHA256: 6c7ac4daa8c0d106dbe0b796579e09dd1797daa79524e831c1b257894ab866f9
 Section: Tweaks
 Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
 Author: Yousef
