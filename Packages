@@ -17,20 +17,20 @@ Icon: file:///var/jb/Library/PreferenceBundles/MuteLockPrefs.bundle/icon@2x.png
 Name: MuteLock
 
 Package: com.yousef.ostiktok
-Version: 1.1.0
+Version: 1.1.1
 Architecture: iphoneos-arm64
 Maintainer: Yousef
-Installed-Size: 696
+Installed-Size: 816
 Depends: firmware (>= 15.0), ellekit
-Filename: ./debs/com.yousef.ostiktok_1.1.0_iphoneos-arm64.deb
-Size: 200358
-MD5sum: dcba0de7a42cfbe3968a7eefcc573217
-SHA1: 7fd646fe0081e70035fbd9e2b5f0cebe6ef610c9
-SHA256: 14612ff6786965082366343b57f3f9bbdf966c0ac0b3262e615cf16537c1cdf9
+Filename: ./debs/com.yousef.ostiktok_1.1.1_iphoneos-arm64.deb
+Size: 251172
+MD5sum: 06fc901d3a5406a67cda63cc7cefa889
+SHA1: 59217f9bb42fb783f5baf4c8ea48c8fa580b4bea
+SHA256: bfaa37f3b2ed5fbf705f4354e915b620230484b41095986eabb7827207e06dd3
 Section: Tweaks
 Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
 Author: Yousef
-Icon: https://yousefzx9900.github.io/repo/CydiaIcon.png
+Icon: https://yousefzx9900.github.io/repo/OSTikTok_icon.png
 Name: OSTikTok
 Sileodepiction: https://yousefzx9900.github.io/repo/depictions/com.yousef.ostiktok/depiction.json
 
