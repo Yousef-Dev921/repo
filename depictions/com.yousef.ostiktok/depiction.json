@@ -69,6 +69,18 @@
       "views": [
         {
           "class": "DepictionHeaderView",
+          "title": "الإصدار 1.2.0 | Version 1.2.0",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**العربية:**\n• اضافه ميزة تحميل الفيديو ، الصور ، الستوري ، الصور كفيديو باعلى جودة متاحة\n• تحسين استقرار ميزة الترجمة الفورية للتعليقات\n• اضافة ميزة جعل شريط الفيديو يظهر دائما\n\n---\n\n**English:**\n• Added feature to download videos, photos, stories, and photos as video (slideshow) at the highest available quality\n• Improved stability of instant comment translation\n• Added feature to always show the video progress bar"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
           "title": "الإصدار 1.1.1 | Version 1.1.1",
           "useBoldText": true
         },

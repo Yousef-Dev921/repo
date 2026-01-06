@@ -30,7 +30,25 @@ SHA256: 6c7ac4daa8c0d106dbe0b796579e09dd1797daa79524e831c1b257894ab866f9
 Section: Tweaks
 Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
 Author: Yousef
-Icon: https://yousefzx9900.github.io/repo/OSTikTok_icon.png
+Icon: https://yousefzx9900.github.io/repo/CydiaIcon.png
+Name: OSTikTok
+Sileodepiction: https://yousefzx9900.github.io/repo/depictions/com.yousef.ostiktok/depiction.json
+
+Package: com.yousef.ostiktok
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Yousef
+Installed-Size: 864
+Depends: firmware (>= 15.0), ellekit
+Filename: ./debs/com.yousef.ostiktok_1.2.0_iphoneos-arm64.deb
+Size: 262210
+MD5sum: f9dd68a808c1ce0a6fc38751f537e676
+SHA1: d222fe841e5e73585abab742aca0db6eff997b38
+SHA256: 0755defe6c6da6faf5710f7a86bff54653d397d6d8d03e3cc06b044056bd8b87
+Section: Tweaks
+Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
+Author: Yousef
+Icon: https://yousefzx9900.github.io/repo/CydiaIcon.png
 Name: OSTikTok
 Sileodepiction: https://yousefzx9900.github.io/repo/depictions/com.yousef.ostiktok/depiction.json
 
