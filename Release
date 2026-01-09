@@ -6,19 +6,19 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: OS Tweaks Repository
-Icon: https://yousefzx9900.github.io/repo/CydiaIcon.png
+Icon: https://Yousef-Dev921.github.io/repo/CydiaIcon.png
 MD5Sum:
- c82a294433c57e7a823895835d8af8e2 2201 Packages
- bb5454301cdb3b9bc0ed9be0f2e171bd 958 Packages.gz
- 853e1862e2849bd8a2bbaccc93fad9eb 1112 Packages.bz2
- 92438ef25c0b35d24290bbd3d83d8907 1024 Packages.xz
+ 1f520c199efa43c3e860b7aa5b3e090f 1540 Packages
+ 19614edd38be770d5d49116cdef9ee5a 851 Packages.gz
+ 82c6c1d699ad8b6f5d07096d4221f38b 960 Packages.bz2
+ 5c80515d8fb833f9e03bb9d207a91129 928 Packages.xz
 SHA1:
- 36d2fd455ed14a55d776c8c5222e577649f2040b 2201 Packages
- de06f93048f892d3fb1668e7d2b78dbf12128aae 958 Packages.gz
- d5ab28a3e9b69ca89485f9efa8327c67c8f698fb 1112 Packages.bz2
- e8e39c6d0d411c0d65354da82c9777eb49443987 1024 Packages.xz
+ 8fa5f94c5fcde2b2a8451b0d32ce1f2b3e6200c0 1540 Packages
+ 70798df0466426ea91a31ba0ec4389028dda7ae1 851 Packages.gz
+ 2955c5d0c31dcbe5a4cfb725ee8f11ccdde2e29f 960 Packages.bz2
+ ab55e7d4622aa8c4fd0ae98cd788b45437da618e 928 Packages.xz
 SHA256:
- 6effd6ba0acdf27402d1f11ec29bb08104952fed39c534de1533c7b3b91abea8 2201 Packages
- c9c7fc80ef8b095d0122a2a2a89ef80aca0fef65e0d6902e438f23940d13563a 958 Packages.gz
- a4a9893f93d7d45c5fe27f25d96038b844e525869ee0bacfb903b3314a0ba7e7 1112 Packages.bz2
- 834acae03ca4f5a73ab8134995cf44e3053dc60718c22d623b4fbe6dafa8d3de 1024 Packages.xz
+ 864786850bf141c84e80645991681ca360a3a7336508378bd5729b341af5d763 1540 Packages
+ a019a896988535648c08077087a48bd6dfe817d23eeb958f5109efeca181eadf 851 Packages.gz
+ 97bacb278efbaa09966cdd116bd90a9b8b67b4e7f056aabe8a14135348b3906a 960 Packages.bz2
+ 2d689b31cc93041ccea220a0dbd4884118b3a2593ba5b8076327784adcec667b 928 Packages.xz

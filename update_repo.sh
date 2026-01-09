@@ -5,6 +5,10 @@
 echo "Generating Packages..."
 dpkg-scanpackages -m ./debs > Packages
 
+echo "Patching Packages file..."
+sed -i '' 's/yousefzx9900\.github\.io\/repo-dist/Yousef-Dev921.github.io\/repo/g' Packages
+sed -i '' 's/yousefzx9900\.github\.io\/repo/Yousef-Dev921.github.io\/repo/g' Packages
+
 echo "Compressing Packages..."
 rm -f Packages.bz2 Packages.gz Packages.xz
 bzip2 -k Packages
@@ -21,7 +25,7 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: OS Tweaks Repository
-Icon: https://yousefzx9900.github.io/repo/CydiaIcon.png
+Icon: https://Yousef-Dev921.github.io/repo/CydiaIcon.png
 EOF
 
 # Append hashes and sizes to Release

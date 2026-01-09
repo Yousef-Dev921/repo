@@ -13,19 +13,19 @@
           "itemSize": "{173, 320}",
           "screenshots": [
             {
-              "url": "https://yousefzx9900.github.io/repo/depictions/com.yousef.ostiktok/screenshots/1.jpg",
+              "url": "https://Yousef-Dev921.github.io/repo/depictions/com.yousef.ostiktok/screenshots/1.jpg",
               "accessibilityText": "Screenshot 1"
             },
             {
-              "url": "https://yousefzx9900.github.io/repo/depictions/com.yousef.ostiktok/screenshots/2.jpg",
+              "url": "https://Yousef-Dev921.github.io/repo/depictions/com.yousef.ostiktok/screenshots/2.jpg",
               "accessibilityText": "Screenshot 2"
             },
             {
-              "url": "https://yousefzx9900.github.io/repo/depictions/com.yousef.ostiktok/screenshots/3.jpg",
+              "url": "https://Yousef-Dev921.github.io/repo/depictions/com.yousef.ostiktok/screenshots/3.jpg",
               "accessibilityText": "Screenshot 3"
             },
             {
-              "url": "https://yousefzx9900.github.io/repo/depictions/com.yousef.ostiktok/screenshots/4.jpg",
+              "url": "https://Yousef-Dev921.github.io/repo/depictions/com.yousef.ostiktok/screenshots/4.jpg",
               "accessibilityText": "Screenshot 4"
             }
           ]
@@ -35,11 +35,17 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "أداة متقدمة توفر تجربة تيك توك متكاملة ومحسّنة مع مجموعة شاملة من المميزات.\n\n**التنزيل والمشاركة:**\n• تنزيل الفيديوهات بدون علامة مائية\n• تنزيل الصور كفيديو (عرض شرائح) مع صوت أو صامت\n• تنزيل الموسيقى مباشرة\n• نسخ الوصف وروابط الفيديو والموسيقى\n• اختيار وضع التنزيل (مشاركة أو حفظ مباشر)\n• تحميل ستوري المستخدمين (فيديو وصور)\n• تحويل صور الستوري لفيديو عرض شرائح\n• اختيار صور محددة للتحميل\n\n**تحسينات الصور:**\n• دقة محسّنة لتحميل الصور كسلايد شو\n• جودة صور أعلى مع أبعاد مُحسّنة تلقائياً\n• نافذة مخصصة للصور الكثيرة مع اختيار محدد\n\n**الملف الشخصي:**\n• حفظ صورة الملف الشخصي بالضغط المطول\n• نسخ السيرة الذاتية\n• عرض تاريخ الرفع وعدد الإعجابات والمقاطع\n• سيرة ذاتية وتعليقات موسعة\n• عرض تاريخ إنشاء كل فيديو بجانب اسم المستخدم\n\n**التشغيل والتجربة:**\n• تشغيل تلقائي للمقطع التالي\n• إيقاف التكرار اللانهائي\n• تخطي تلقائي للصور عند تفعيل الانتقال التلقائي\n• تخطي المقترحات وإخفاء الإعلانات\n• تعطيل التحذيرات والمحتوى الحساس\n• علم منطقة الرفع وسرعات تشغيل مسبقة\n\n**الترجمة:**\n• ترجمة فورية للتعليقات بالضغط المطول\n\n**الإعدادات والتخصيص:**\n• نسخ احتياطي واستعادة كاملة للإعدادات\n• تخصيص كامل لخيارات القائمة\n• إخفاء أو إظهار: نسخ الوصف، رابط الموسيقى، رابط الفيديو\n• إعادة ضبط الإعدادات ومسح الكاش\n• دعم العربية والإنجليزية\n\n**الترخيص:**\n• نظام تراخيص آمن\n• إمكانية نقل الترخيص لجهاز آخر كل 30 يوم\n\n---\n\nAdvanced tweak providing a comprehensive and enhanced TikTok experience.\n\n**Download and Share:**\n• Download videos without watermark\n• Download photos as video (slideshow) with or without audio\n• Download music directly\n• Copy description and video/music links\n• Choose download mode (share sheet or direct save)\n• Download user stories (videos and photos)\n• Convert story photos to slideshow video\n• Select specific photos to download\n\n**Photo Improvements:**\n• Enhanced slideshow quality and resolution\n• Higher image quality with auto-optimized dimensions\n• Custom window for large photo sets with selective download\n\n**Profile:**\n• Save profile pictures with long press\n• Copy bio\n• Show upload dates, like counts, and video counts\n• Extended bio and comments\n• Display video creation date next to username\n\n**Playback and Experience:**\n• Auto-play next video\n• Stop looping playback\n• Auto-skip photos when auto-advance is enabled\n• Skip recommendations and hide ads\n• Disable warnings and sensitive content mask\n• Upload region flag and preset playback speeds\n\n**Translation:**\n• Instant comment translation with long press\n\n**Settings and Customization:**\n• Full settings backup and restore\n• Complete menu customization\n• Show/hide: Copy description, music link, video link\n• Reset settings and clear cache\n• Arabic and English support\n\n**Licensing:**\n• Secure license system\n• Transfer license to another device every 30 days",
+          "markdown": "أداة مدفوعة توفر تجربة تيك توك متكاملة ومحسّنة.\n\n**التنزيل والمشاركة:**\n• تنزيل الفيديوهات بدون علامة مائية\n• تنزيل الصور كفيديو (عرض شرائح) مع صوت أو صامت\n• تنزيل الموسيقى مباشرة\n• نسخ الوصف وروابط الفيديو/الموسيقى\n• اختيار وضع التنزيل (مشاركة أو حفظ مباشر)\n\n**الملف الشخصي:**\n• حفظ صورة الملف الشخصي بالضغط المطول\n• نسخ السيرة الذاتية\n• عرض تاريخ الرفع وعدد الإعجابات والمقاطع\n• سيرة ذاتية وتعليقات موسعة\n\n**التشغيل والتجربة:**\n• تشغيل تلقائي للمقطع التالي\n• إيقاف التكرار اللانهائي\n• تخطي المقترحات وإخفاء الإعلانات\n• تعطيل التحذيرات والمحتوى الحساس\n• علم منطقة الرفع وسرعات تشغيل مسبقة\n\n**الترخيص:**\n• نظام تراخيص آمن عبر Patreon\n• إمكانية نقل الترخيص لجهاز آخر كل 30 يوم\n\n**أدوات متقدمة:**\n• إعادة ضبط الإعدادات ومسح الكاش\n• دعم العربية والإنجليزية\n\n---\n\nPremium tweak providing an enhanced TikTok experience.\n\n**Download & Share:**\n• Download videos without watermark\n• Download photos as video (slideshow) with or without audio\n• Download music directly\n• Copy description and video/music links\n• Choose download mode (share sheet or direct save)\n\n**Profile:**\n• Save profile pictures with long press\n• Copy bio\n• Show upload dates, like counts, and video counts\n• Extended bio and comments\n\n**Playback & Experience:**\n• Auto-play next video\n• Stop looping playback\n• Skip recommendations and hide ads\n• Disable warnings and sensitive content mask\n• Upload region flag and preset playback speeds\n\n**Licensing:**\n• Secure license system via Patreon\n• Transfer license to another device every 30 days\n\n**Advanced Tools:**\n• Reset settings and clear cache\n• Arabic & English support\n\n**Links:**",
           "useSpacing": true
         },
         {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "شراء الترخيص | Get License (Patreon)",
+          "action": "https://www.patreon.com/OS_Tweaks",
+          "tintColor": "#FF424D"
         },
         {
           "class": "DepictionTableButtonView",
@@ -69,48 +75,12 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "الإصدار 1.2.0 | Version 1.2.0",
-          "useBoldText": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**العربية:**\n• اضافه ميزة تحميل الفيديو ، الصور ، الستوري ، الصور كفيديو باعلى جودة متاحة\n• تحسين استقرار ميزة الترجمة الفورية للتعليقات\n• اضافة ميزة جعل شريط الفيديو يظهر دائما\n\n---\n\n**English:**\n• Added feature to download videos, photos, stories, and photos as video (slideshow) at the highest available quality\n• Improved stability of instant comment translation\n• Added feature to always show the video progress bar"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "الإصدار 1.1.1 | Version 1.1.1",
-          "useBoldText": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**ميزة جديدة:**\n• ترجمة فورية للتعليقات - اضغط مطولاً على أي تعليق لترجمته\n\n---\n\n**New Feature:**\n• Instant Comment Translation - Long press any comment to translate"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "الإصدار 1.1.0 | Version 1.1.0",
-          "useBoldText": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**العربية:**\n\n**تحميل الستوري:**\n• دعم كامل لتحميل ستوري المستخدمين\n• تحميل الفيديوهات والصور مباشرة\n• تحويل الصور لفيديو عرض شرائح\n\n**تحسينات تحميل الصور:**\n• دقة محسّنة لتحميل الصور كسلايد شو\n• جودة صور أعلى مع أبعاد مُحسّنة تلقائياً\n• نافذة مخصصة لاختيار صور محددة\n\n**إصلاحات التشغيل:**\n• إصلاح الانتقال التلقائي للمقطع التالي\n• إصلاح مشكلة تكرار المقاطع\n• تخطي تلقائي للصور عند تفعيل الانتقال التلقائي\n\n**النسخ الاحتياطي:**\n• نسخ احتياطي واستعادة كاملة للإعدادات\n• حفظ تفضيلاتك بأمان\n\n**تخصيص متقدم:**\n• تحكم كامل في خيارات القائمة\n• إخفاء أو إظهار: نسخ الوصف، رابط الموسيقى، رابط الفيديو\n• واجهة مبسطة حسب احتياجاتك\n\n**معلومات إضافية:**\n• عرض تاريخ إنشاء كل فيديو بجانب اسم المستخدم\n• متوفر في جميع صفحات التطبيق\n\n**تحسينات عامة:**\n• تحسينات شاملة في التصميم والواجهة\n• نصوص أوضح وأكثر احترافية\n\n---\n\n**English:**\n\n**Story Download:**\n• Full support for downloading user stories\n• Download videos and photos directly\n• Convert photos to video slideshow\n\n**Photo Download Improvements:**\n• Enhanced slideshow quality and resolution\n• Higher image quality with auto-optimized dimensions\n• Custom window for selecting specific photos\n\n**Playback Fixes:**\n• Fixed auto-advance to next video\n• Fixed video loop issues\n• Auto-skip photos when auto-advance is enabled\n\n**Backup and Restore:**\n• Full settings backup and restore\n• Keep your preferences safe\n\n**Advanced Customization:**\n• Full control over menu options\n• Show/hide: Copy description, music link, video link\n• Simplified interface based on your needs\n\n**Additional Info:**\n• Display video creation date next to username\n• Available on all app pages\n\n**General Improvements:**\n• Comprehensive UI/UX enhancements\n• Cleaner, more professional text"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionHeaderView",
           "title": "الإصدار 1.0.0 | Version 1.0.0",
           "useBoldText": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**العربية:**\n• الإصدار الأول من الأداة\n• دعم كامل للغة العربية والإنجليزية\n• نظام ترخيص آمن\n• تصميم عصري متوافق مع iOS 15+\n\n---\n\n**English:**\n• Initial release\n• Full Arabic and English support\n• Secure licensing system\n• Modern iOS 15+ design"
+          "markdown": "**العربية:**\n- الإصدار الأول\n- دعم كامل للغة العربية\n- ميزات مدفوعة مع تفعيل الترخيص\n- تصميم حديث لـ iOS 15+\n\n---\n\n**English:**\n- Initial release\n- English language support\n- Premium features with license activation\n- Modern iOS 15+ UI design"
         }
       ]
     }
