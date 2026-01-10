@@ -52,3 +52,21 @@ Icon: https://Yousef-Dev921.github.io/repo/CydiaIcon.png
 Name: OSTikTok
 Sileodepiction: https://Yousef-Dev921.github.io/repo/depictions/com.yousef.ostiktok/depiction.json
 
+Package: com.yousef.ostiktok
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: Yousef
+Installed-Size: 992
+Depends: firmware (>= 15.0), ellekit
+Filename: ./debs/com.yousef.ostiktok_1.2.2_iphoneos-arm64.deb
+Size: 320066
+MD5sum: 3728f39bc131bc67b778f6fd249991a0
+SHA1: 9f635cb519d8001e76631e9656df1cf95146a57f
+SHA256: 59a564872ea72d2355b7569c3f50cd834f201aaf05a21c26dc482518224c838b
+Section: Tweaks
+Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
+Author: Yousef
+Icon: https://Yousef-Dev921.github.io/repo/CydiaIcon.png
+Name: OSTikTok
+Sileodepiction: https://Yousef-Dev921.github.io/repo/depictions/com.yousef.ostiktok/depiction.json
+
