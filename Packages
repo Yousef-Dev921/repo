@@ -17,88 +17,16 @@ Icon: file:///var/jb/Library/PreferenceBundles/MuteLockPrefs.bundle/icon@2x.png
 Name: MuteLock
 
 Package: com.yousef.ostiktok
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: Yousef
-Installed-Size: 816
-Depends: firmware (>= 15.0), ellekit
-Filename: ./debs/com.yousef.ostiktok_1.1.1_iphoneos-arm64.deb
-Size: 251720
-MD5sum: 875a63bb5a45774290d61d7876807522
-SHA1: 94df809a82fd8d04e69f45183af90d0ad13491e0
-SHA256: 6c7ac4daa8c0d106dbe0b796579e09dd1797daa79524e831c1b257894ab866f9
-Section: Tweaks
-Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
-Author: Yousef
-Icon: https://Yousef-Dev921.github.io/repo/CydiaIcon.png
-Name: OSTikTok
-Sileodepiction: https://Yousef-Dev921.github.io/repo/depictions/com.yousef.ostiktok/depiction.json
-
-Package: com.yousef.ostiktok
-Version: 1.2.0
-Architecture: iphoneos-arm64
-Maintainer: Yousef
-Installed-Size: 864
-Depends: firmware (>= 15.0), ellekit
-Filename: ./debs/com.yousef.ostiktok_1.2.0_iphoneos-arm64.deb
-Size: 240286
-MD5sum: b42db2884af5c97dbdf350845133cd46
-SHA1: 4fe2d0cfa1bc9b4eb00a134f85ca25480714b023
-SHA256: f0ffa813a652f790fab68d4201ef73428bc0b67fde62af100bc9cf18fdbef98e
-Section: Tweaks
-Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
-Author: Yousef
-Icon: https://Yousef-Dev921.github.io/repo/CydiaIcon.png
-Name: OSTikTok
-Sileodepiction: https://Yousef-Dev921.github.io/repo/depictions/com.yousef.ostiktok/depiction.json
-
-Package: com.yousef.ostiktok
-Version: 1.2.2
-Architecture: iphoneos-arm64
-Maintainer: Yousef
-Installed-Size: 992
-Depends: firmware (>= 15.0), ellekit
-Filename: ./debs/com.yousef.ostiktok_1.2.2_iphoneos-arm64.deb
-Size: 320066
-MD5sum: 3728f39bc131bc67b778f6fd249991a0
-SHA1: 9f635cb519d8001e76631e9656df1cf95146a57f
-SHA256: 59a564872ea72d2355b7569c3f50cd834f201aaf05a21c26dc482518224c838b
-Section: Tweaks
-Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
-Author: Yousef
-Icon: https://Yousef-Dev921.github.io/repo/CydiaIcon.png
-Name: OSTikTok
-Sileodepiction: https://Yousef-Dev921.github.io/repo/depictions/com.yousef.ostiktok/depiction.json
-
-Package: com.yousef.ostiktok
-Version: 1.2.3
-Architecture: iphoneos-arm64
-Maintainer: Yousef
-Installed-Size: 992
-Depends: firmware (>= 15.0), ellekit
-Filename: ./debs/com.yousef.ostiktok_1.2.3_iphoneos-arm64.deb
-Size: 343048
-MD5sum: adac1035ee9f06fd8e5235e5a1ee7d02
-SHA1: 4f2b611dfaa815d7455955376e3cf1cc91cfb8e5
-SHA256: 0422357e1bb6641da4dd87c60562fe6b2fec0968f9b78065fa7728175386433e
-Section: Tweaks
-Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
-Author: Yousef
-Icon: https://Yousef-Dev921.github.io/repo/CydiaIcon.png
-Name: OSTikTok
-Sileodepiction: https://Yousef-Dev921.github.io/repo/depictions/com.yousef.ostiktok/depiction.json
-
-Package: com.yousef.ostiktok
 Version: 1.2.4
 Architecture: iphoneos-arm64
 Maintainer: Yousef <https://github.com/Yousef-Dev921>
-Installed-Size: 1252
+Installed-Size: 1284
 Depends: firmware (>= 15.0), ellekit
 Filename: ./debs/com.yousef.ostiktok_1.2.4_iphoneos-arm64.deb
-Size: 421382
-MD5sum: 4c31a51f7f574efc3bb3fb931253001e
-SHA1: 10d1ea7f15a2e986a8c88ae6674753d1bf3bea97
-SHA256: 2fab687576e958bd6ad5ab7c2395849613cf805c2406db0afb79bdbf2a0b4fc6
+Size: 430438
+MD5sum: f93d021737f5465debf861da303bd8b6
+SHA1: 52276391c36f4e7dfc259d6fe4fbbd2c4a626745
+SHA256: 118c870757d964124721455f96650d547e6c68fdd66a541aaef98fe95660d488
 Section: Tweaks
 Description: Enhanced TikTok Experience - Download videos, customize interface, advanced tools, and comprehensive ad blocking (100% coverage)
 Author: Yousef <https://github.com/Yousef-Dev921>
