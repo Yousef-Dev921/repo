@@ -20,13 +20,13 @@ Package: com.yousef.ostiktok
 Version: 1.2.4
 Architecture: iphoneos-arm64
 Maintainer: Yousef <https://github.com/Yousef-Dev921>
-Installed-Size: 1284
+Installed-Size: 1252
 Depends: firmware (>= 15.0), ellekit
 Filename: ./debs/com.yousef.ostiktok_1.2.4_iphoneos-arm64.deb
-Size: 430438
-MD5sum: f93d021737f5465debf861da303bd8b6
-SHA1: 52276391c36f4e7dfc259d6fe4fbbd2c4a626745
-SHA256: 118c870757d964124721455f96650d547e6c68fdd66a541aaef98fe95660d488
+Size: 423106
+MD5sum: 80a1a47472d819aecf3ea011c0b35767
+SHA1: 93919092fe466f3043a5642eded5aa87e2c64795
+SHA256: d8ac0bc8005c5e51041ccd84c9d371c4e0c2777fd3616f84554832c1af30abed
 Section: Tweaks
 Description: Enhanced TikTok Experience - Download videos, customize interface, advanced tools, and comprehensive ad blocking (100% coverage)
 Author: Yousef <https://github.com/Yousef-Dev921>
