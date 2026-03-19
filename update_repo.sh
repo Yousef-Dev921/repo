@@ -8,6 +8,28 @@ dpkg-scanpackages -m ./debs > Packages
 echo "Patching Packages file..."
 sed -i '' 's/yousefzx9900\.github\.io\/repo-dist/Yousef-Dev921.github.io\/repo/g' Packages
 sed -i '' 's/yousefzx9900\.github\.io\/repo/Yousef-Dev921.github.io\/repo/g' Packages
+python3 - <<'PY'
+from pathlib import Path
+
+path = Path("Packages")
+blocks = path.read_text().strip().split("\n\n")
+updated = []
+
+for block in blocks:
+    if block.startswith("Package: com.yousef.ostiktok\n"):
+        lines = [line for line in block.splitlines() if not line.startswith(("Description: ", "Author: ", "Icon: ", "Name: ", "Sileodepiction: "))]
+        lines.extend([
+            "Description: Enhanced TikTok Experience - Download videos, customize interface, advanced tools.",
+            "Author: Yousef <https://github.com/Yousef-Dev921>",
+            "Icon: https://Yousef-Dev921.github.io/repo/OSTikTok_icon.png",
+            "Name: OS TikTok",
+            "Sileodepiction: https://Yousef-Dev921.github.io/repo/depictions/com.yousef.ostiktok/depiction.json",
+        ])
+        block = "\n".join(lines)
+    updated.append(block)
+
+path.write_text("\n\n".join(updated) + "\n\n")
+PY
 
 echo "Compressing Packages..."
 rm -f Packages.bz2 Packages.gz Packages.xz
